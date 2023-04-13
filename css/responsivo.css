@@ -1,0 +1,135 @@
+@media (max-width: 1280px) {
+    body {
+        padding: 0px 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    main {
+        width: 550px;
+        height: 500px;
+    }
+
+    .um {
+        width: 550px;
+        height: 230px;
+    }
+
+    .dois {
+        width: 275px;
+    height: 270px;
+    }
+
+    .tres {
+        width: 275px;
+    height: 270px;
+    }
+
+    .tituloum {
+        padding-top: 35px;
+    }
+
+    .subtituloum {
+        margin-top: 22px;
+    }
+
+    .paragrafoum {
+        max-width: 450px;
+        line-height: 25px;
+    }
+
+    .botao {
+        width: 200px;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 35px;
+    background-color: rgba(57, 224, 79, 0.87);
+    }
+
+    .botao:active, .botao:hover {
+        background-color: rgb(36, 223, 61);
+    }
+
+    .paragrafotres {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 425px) {
+    main {
+        width: 330px;
+        height: 880px;
+    }
+
+    .um {
+        width: 330px;
+        height: 300px;
+    }
+
+    .dois {
+        position: inherit;
+        width: 330px;
+    height: 290px;
+    border-radius: 0;
+    }
+
+    .tres {
+        position: absolute;
+        width: 330px;
+    height: 290px;
+    border-bottom-left-radius: 10px;
+    }
+
+    .tituloum {
+        margin-left: 30px;
+        font-size: x-large;
+    }
+
+    .subtituloum {
+        margin-left: 30px;
+        margin-top: 30px;
+        font-size: large;
+    }
+
+    .paragrafoum {
+        margin-left: 30px;
+        margin-top: 30px;
+        max-width: 280px;
+    }
+
+    .titulodois {
+        margin: 0;
+        margin-left: 30px;
+        padding-top: 40px;
+    }
+
+    .valor {
+        margin-top: 25px;
+        margin-left: 30px;
+    }
+
+    .mes {
+        margin-top: 35px;
+        margin-left: 90px;
+    }
+
+    .informacoes {
+        margin-left: 30px;
+    }
+
+    .botao {
+    width: 280px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 25px;
+    background-color: rgba(57, 224, 79, 0.87);
+    }
+
+    .botao:active, .botao:hover {
+        background-color: rgb(36, 223, 61);
+    }
+
+    .paragrafotres {
+        margin-top: 20px;
+    }
+}

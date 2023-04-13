@@ -1,0 +1,111 @@
+body {
+    background-color: aliceblue;
+}
+
+main{
+    width: 650px;
+    height: 530px;
+    margin: 3vw auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px #696969;
+}
+.um{
+    background-color: rgb(247, 245, 245);
+    width: 650px;
+    height: 230px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.dois {
+    position: absolute;
+    background-color: rgb(13, 182, 173);
+    width: 325px;
+    height: 300px;
+    color: white;
+    border-bottom-left-radius: 10px;
+}
+
+.tres {
+    float: right;
+    background-color: rgba(50, 168, 160, 0.767);
+    width: 325px;
+    height: 300px;
+    border-bottom-right-radius: 10px;
+}
+
+.tituloum {
+    margin-left: 50px;
+    padding-top: 40px;
+    color: rgb(36, 194, 194);
+}
+
+.subtituloum {
+    margin-left: 50px;
+    margin-top: 30px;
+    color: rgba(103, 214, 69, 0.945);
+    height: 35px;
+}
+
+.paragrafoum {
+    margin-left: 50px;
+    max-width: 550px;
+    color: rgb(121, 118, 108);
+    line-height: 30px;
+}
+
+.titulodois {
+    margin-top: 50px;
+    margin-left: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.valor {
+    margin-top: 22px;
+    margin-left: 40px;
+    float: left;
+}
+
+.mes {
+    color: #fdfdfd8a;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.informacoes {
+    margin-top: 22px;
+    margin-left: 40px;
+    color: rgba(255, 255, 255, 0.877);
+}
+
+.botao {
+    color: white;
+    background-color: rgba(57, 224, 79, 0.87);
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 245px;
+    height: 50px;
+    border: 2px solid #555;
+    border-radius: 5px;
+    border: none;
+    border-color: rgb(29, 90, 87);
+    box-shadow: -1px 1px 3px #696969;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: rgb(36, 223, 61);
+    transition: background .5s;
+}
+
+.titulotres {
+    color: rgb(255, 255, 255);
+    margin-top: 45px;
+    margin-left: 40px;
+}
+
+.paragrafotres {
+    color: #eeeeee;
+    margin-left: 40px;
+    margin-top: 25px;
+    line-height: 23px;
+}
