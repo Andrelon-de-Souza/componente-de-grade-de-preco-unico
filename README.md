@@ -6,16 +6,24 @@ Usei esse código para demonstrar e praticar minhas habilidades, familiarizando 
 
 A imagem abaixo defini a visão do site acessado através de um computador:
 
-image.png
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82729028/231915718-3c5adab0-db63-4f7a-a3c0-6da6b4dcd89b.png" width="900px" />
+</div>
 
 Além de poder ser acessado pelo computador, também realizei códigos responsivos, onde o usuário poderá também acessá-lo através do tablet ou celular, dando uma boa visão do mesmo sem perder seu estilo único e suas cores, mas valores a interidade do site.
 
 A imagem abaixo defini a visão do site acessado através de um tablet:
 
-image.png
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82729028/231915889-9c4ba653-cafc-41a8-bd66-296f52c4d49f.png" width="400px" />
+</div>
 
 A imagem abaixo defini a visão do site acessado através de um celular:
 
-image.png
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82729028/231915935-41388ec8-acca-4c77-8282-1b920d1bec97.png" width="200px" />
+</div>
+
+
 
 E assim ficou o meu primeiro site feito do zero, um site simples, mas creio que atendeu um pouco do que se deve ter em um site quando solicitado pelo clientes.
