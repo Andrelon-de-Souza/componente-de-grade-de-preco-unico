@@ -2,7 +2,7 @@
 
 Projeto criado com o intuito de treinar habilidades em programação e mostrar um pouco dos conhecimentos adquiridos na faculdade e cursos complemetares;
 <br>
-Coloco em pratica minhas habilidades com as linguagens HTML5 e CSS3 para criar um pequeno site com unica aba, onde tem algumas descrições, informações e um botão sem comandos ao aperta-lo;
+Coloco em pratica minhas habilidades com as linguagens HTML5 e CSS3 para criar um pequeno site com única aba, onde tem algumas descrições, informações e um botão sem comandos ao aperta-lo;
 <br>
 Usei esse código para demonstrar e praticar minhas habilidades, familiarizando com as linguagens e posteriormente, dando inicio a outros projetos simples, com o intuito de colocar em pratica a criatividade e evoluindo níveis de lógica e programação;
 
