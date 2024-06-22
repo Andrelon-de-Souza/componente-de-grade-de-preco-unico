@@ -17,7 +17,7 @@ A imagem abaixo define a visão do site acessado através de um computador:
 <br>
 <br>
 
-Além de poder ser acessado pelo computador também realizei códigos responsivos, onde o usuário poderá também acessá-lo através do tablet ou celular, dando uma boa visão do mesmo sem perder seu estilo único e suas cores, mas valorizando a integridade do site.
+Além de  ser acessado pelo computador, também realizei códigos responsivos, onde o usuário poderá acessá-lo através do tablet ou celular, dando uma boa visão do mesmo sem perder seu estilo único e suas cores, mas valorizando a integridade do site.
 
 <br>
 
